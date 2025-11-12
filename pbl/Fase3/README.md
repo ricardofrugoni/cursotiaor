@@ -3,8 +3,10 @@
 ![Logo FIAP](./assets/logo-fiap.png)
 
 **Projeto:** Importação e Análise de Dados de Sensores de Irrigação
-**Identificação** RM566818 Ricardo Rodriguez Frugoni de Souza **Curso:** Graduação - 1TIAOR
-**Fase:** 03 **Capítulo:** 01
+**Identificação** RM566818 Ricardo Rodriguez Frugoni de Souza 
+**Curso:** Graduação - 1TIAOR
+**Fase:** 03 
+**Capítulo:** 01
 **Instituição:** FIAP  
 **Data:** 2025-11-11
 
